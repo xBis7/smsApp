@@ -1,5 +1,5 @@
 # smsApp
-Simple graphical interface of a mobile an SMS app and a contact book
+Simple graphical interface of a mobile SMS app and a contact book created in javafx using java maven and visual studio code.
 
 
 ![sms1](https://user-images.githubusercontent.com/74301312/127007568-0e13024d-86b9-46ea-81c4-c465a58b2ba0.PNG)
